@@ -6,6 +6,12 @@
     text-decoration: none;
 
 }
+.logo{
+    width: 80px;
+    padding: inherit;
+    border-radius: 25px;
+    
+}
 body{
     height: 100vh;
     background: url(images/villaboat.png) no-repeat center;

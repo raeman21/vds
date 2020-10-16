@@ -7,4 +7,9 @@
 .carousel-inner {
   place-items: center;
 }
+.logo{
+  width: 80px;
+  padding: inherit;
+  border-radius: 25px;
+}
 

@@ -4,6 +4,11 @@
     font-family: sans-serif;
     box-sizing: border-box;
 }
+.logo{
+    width: 80px;
+    padding: inherit;
+    border-radius: 25px;
+}
 body{
     min-height: 100vh;
     display: flex;
