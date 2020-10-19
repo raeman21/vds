@@ -16,10 +16,12 @@ body{
     justify-content: center ;
     background-color:white ;
 }
+
 .carousel-inner {
     place-items: center;
     width: 100%;
     height: 700px ;
+    object-fit: contain;
   }
 .about-section{
     background: url(images/pagabeach.png) no-repeat left;
