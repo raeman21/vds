@@ -9,12 +9,25 @@
     padding: inherit;
     border-radius: 25px;
 }
+nav{
+    font-family: 'Lobster', cursive;
+  }
 body{
     min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center ;
     background-color:white ;
+    font-family: 'Lobster', cursive;
+
+}
+.text{
+    font-family: 'Lobster', cursive;
+
+}
+.link{
+    font-family: 'Lobster', cursive;
+
 }
 
 .carousel-inner {
