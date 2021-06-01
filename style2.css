@@ -21,6 +21,16 @@ body{
     font-family: 'Lobster', cursive;
 
 }
+@media screen and(max-width: 600px){
+    .carousel-inner{
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+      background-size: 100%;
+      padding: 0;
+      flex: 100%;
+      max-width: 100%;
+    }
 .text{
     font-family: 'Lobster', cursive;
 
