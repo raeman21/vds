@@ -4,7 +4,7 @@
   }
   .services {
       margin-top: 40px;
-      display: inline-flex;
+      display: flexbox;
       grid-template-columns: repeat(3, 1fr);
       gap: 40px;
       
@@ -24,9 +24,11 @@
       font-weight: 500;
       margin-top: 20px;
       color: var(--secondary-color);
-      text-align: center;
-      align-items: center;
+      text-align: left;
+      align-items: left;
       justify-content: center;
+      display: flex;
+      flex-wrap: wrap;
     }
     
     .services .service .icon img {
