@@ -13,8 +13,20 @@
   flex-wrap: wrap;
   
 }
+.carousel-slide{
+  padding: bottom 10px;
+}
 nav{
   font-family: 'Lobster', cursive;
+}
+.writeup{
+  font-family: 'Lobster', cursive;
+  font-size:30px;
+
+}
+.img-fluid{
+  width: 100%;
+  height:auto;
 }
 .sm{
   display:flex;
