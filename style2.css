@@ -30,7 +30,9 @@ body{
       padding: 0;
       flex: 100%;
       max-width: 100%;
-    }
+    
+}
+}
 .text{
     font-family: 'Lobster', cursive;
 
@@ -39,6 +41,7 @@ body{
     font-family: 'Lobster', cursive;
 
 }
+
 
 
 .about-section{
